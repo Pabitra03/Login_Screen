@@ -1,7 +1,7 @@
-# 💻Login Page Project
+# 💻 Login Page Project
 <p>Welcome to the Login Page Project!</p>
 
- 📈Technologies Used
+## 📈 Technologies Used
 HTML
- CSS
+CSS
 Jquery
