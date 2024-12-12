@@ -9,8 +9,9 @@
 ## 🌐 Website
 you can visit the website by clicking this link ➡️: <a href="https://dancing-croquembouche-483083.netlify.app/" target="_blank"> pabitra03-login-page</a>
 
-## 📷 Screenshort
-<img src="https://github.com/Pabitra03/Login_Screen/blob/main/screenshort/Screenshot%20(47).png" alt="login_image">
+## 📷 Screenshorts
+<img src="https://github.com/Pabitra03/Login_Screen/blob/main/screenshort/Screenshot%201.png" alt="login_image">
+<img src="https://github.com/Pabitra03/Login_Screen/blob/main/screenshort/Screenshot%202.png" alt="login_image">
 
 ## 🙏 Acknowledgement
 <p>This project was inspired by online tutorials and beginner projects in web development. Special thanks to YouTube creators and ChatGPT for providing helpful resources and guidance throughout the development process.</p>
