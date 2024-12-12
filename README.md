@@ -11,3 +11,6 @@ you can visit the website by clicking this link ➡️: <a href="https://dancing
 
 ## 📷 Screenshort
 <img src="https://github.com/Pabitra03/Login_Screen/blob/main/screenshort/Screenshot%20(47).png" alt="login_image">
+
+## 🙏 Acknowledgement
+<p>This project was inspired by online tutorials and beginner projects in web development. Special thanks to YouTube creators and ChatGPT for providing helpful resources and guidance throughout the development process.</p>
